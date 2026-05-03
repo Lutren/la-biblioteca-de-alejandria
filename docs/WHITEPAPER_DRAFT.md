@@ -9,8 +9,8 @@ Public index for sanitized repositories, boundaries, whitepapers and support lin
 | field | value |
 |---|---|
 | repo | `la-biblioteca-de-alejandria` |
-| status | `STAGED_LOCAL_ONLY_LICENSE_BLOCK` |
-| license | Documentation license review required; CC BY-SA is a candidate. |
+| status | `STAGED_LOCAL_ONLY` |
+| license | MIT License for this sanitized public skeleton. |
 | fixtures | synthetic only |
 | private boundary | see `PRIVATE_EXCLUSIONS.md` |
 

@@ -2,8 +2,8 @@
 
 Public index for sanitized repositories, boundaries, whitepapers and support links.
 
-Status: `STAGED_LOCAL_ONLY_LICENSE_BLOCK`. This staging repo is local-only until secret
-scan, path scrub, claims scan, license review and ActionGate approval pass.
+Status: `STAGED_LOCAL_ONLY`. This staging repo is local-only until current
+secret scan, path scrub, claims scan and ActionGate approval pass.
 
 ## What This Includes
 
@@ -17,7 +17,7 @@ See `PRIVATE_EXCLUSIONS.md`.
 
 ## License
 
-Documentation license review required; CC BY-SA is a candidate.
+MIT License for this sanitized public skeleton.
 
 ## Next Steps
 
